@@ -1,2 +1,3 @@
 # qpdf-dev
-Private repository for qpdf developers
+
+Repository for qpdf developers
